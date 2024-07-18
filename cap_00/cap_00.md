@@ -50,7 +50,7 @@ Una vez descargado el fichero tar.gz desde JetBrains.
 ![Instalación de clion](./img/Clion_ejecutar.png)
 
 #### Instalación desde snap
-![Instalación de clion](./img/clion_install_snap.png)
+![Instalación de clion](./img/Clion_install_snap.png)
 
 #### Configuración de Clion para Fortran
 Arrancaremos Clion y crearemos un proyecto cualquiera, lo primero es configurar el entorno para Fortran y se hace instalando un plugin dentro de los Settings.
