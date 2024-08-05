@@ -20,3 +20,5 @@
 [Cap 4 Estructuras de control](cap_04/cap_04.md)
 
 [Cap 5 Unidades de programa y procedimientos](cap_05/cap_05.md)
+
+[Cap 6 Datos dinámicos](cap_06/cap_06.md)
