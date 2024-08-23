@@ -22,3 +22,5 @@
 [Cap 5 Unidades de programa y procedimientos](cap_05/cap_05.md)
 
 [Cap 6 Datos dinámicos](cap_06/cap_06.md)
+
+[Cap 7 Arrays](cap_07/cap_07.md)
